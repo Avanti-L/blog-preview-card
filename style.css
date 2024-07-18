@@ -38,6 +38,10 @@ body {
         align-items: center;
     }
     
+    .avatar {
+        height: 30px;
+    }
+
     h2 {
         color: hsl(47, 88%, 63%);
     }
@@ -80,6 +84,10 @@ body {
         gap: 10px;
         margin-bottom: 10px;
         align-items: center;
+    }
+
+    .avatar {
+        height: 30px;
     }
     
     h2 {
