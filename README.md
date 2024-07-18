@@ -1,6 +1,7 @@
 <h1>Blog Preview Card Screenshot:</h1>
 
-![alt text](<Screenshot 2024-07-18 210348.png>)
+![Screenshot 2024-07-18 210348](https://github.com/user-attachments/assets/f2f5cc5b-a160-4532-8956-ff19f7f1e2a3)
+
 
 <b>Site URL</b>: https://avanti-l.github.io/blog-preview-card
 
